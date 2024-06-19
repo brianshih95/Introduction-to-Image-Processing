@@ -1,0 +1,1 @@
+export PYTHONPATH=$PYTHONPATH:/mnt/c/Users/brian/OneDrive/桌面/hw/三下/影像/project/HAT
